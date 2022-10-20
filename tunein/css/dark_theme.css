@@ -50,9 +50,9 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a {
 .theme-switch-wrapper {
     margin: 0;
     width: auto;
-    display: inline-flex;
-    float: right;
-    padding-top: 25px
+    /* display: inline-flex; */
+    /* float: right; */
+    padding-top: 20px
 }
 .theme-switch {
     display: inline-block;

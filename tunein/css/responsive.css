@@ -85,9 +85,9 @@
     .login_top_wrapper p {
         display: none
     }
-    .m24_navi_main_wrapper {
+    /* .m24_navi_main_wrapper {
         padding: 10px 15px
-    }
+    } */
     .m24_header_right_Wrapper {
         width: 10%
     }
@@ -395,9 +395,9 @@
     .navi_searchbar_wrapper {
         width: 87%
     }
-    .m24_navi_main_wrapper {
+    /* .m24_navi_main_wrapper {
         padding: 5px 0 17px 0
-    }
+    } */
     .content_img_wrapper,
     .slider_side_width:after {
         display: none

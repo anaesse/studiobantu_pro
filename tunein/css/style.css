@@ -229,11 +229,11 @@ a:hover {
 }
 /*-- Button css start --*/
 .m24_logo_wrapper{
-	float:left;
+	/* float:left; */
 	width:25%;
-	position:relative;
+	/* position:relative; */
 }
-.m24_logo_wrapper:after{
+/* .m24_logo_wrapper:after{
 	content: '';
     position: absolute;
     right: -27px;
@@ -241,13 +241,13 @@ a:hover {
     width: 1px;
     height: 83px;
     background: #e6e6e6;
-}
+} */
 .m24_logo_div{
-	float:right;
+	/* float:right; */
 	width:auto;
 }
 .m24_navi_main_wrapper{
-	position:relative;
+	/* position:relative; */
 	padding:5px 35px 35px 15px;
 	z-index:1;
 	background:#f9f9f9;
@@ -435,11 +435,11 @@ a:hover {
 .dropdown-menu-right li{
 	padding-right:0;
 }
-.m24_header_right_Wrapper{
+/* .m24_header_right_Wrapper{
 	float: right;
     width: 15%;
     position: relative;
-}
+} */
 .m24_header_right_Wrapper:after{
 	content: '';
     position: absolute;
@@ -1194,23 +1194,23 @@ span.comboTreeItemTitle{
     left: 10px;
     bottom: 12px;
 }
-.m24_signin_wrapper{
+/* .m24_signin_wrapper{
 	float:right;
 	display:inline-block;
-}
+} */
 .m24_signin_wrapper a img {
-    float: left;
+    /* float: left; */
 	width:35px;
      -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
    border-radius: 100px;
 }
-.m24_signin_wrapper .login_top_wrapper {
+/* .m24_signin_wrapper .login_top_wrapper {
     float: left;
     width: calc(100% - 50px);
     padding-left: 15px;
 	padding-top:6px;
-}
+} */
 .login_top_wrapper p {
     font-size: 16px;
     color: #191919;
@@ -1648,8 +1648,8 @@ ul.tranding_more_option li a .opt_icon i:before{
 	padding-top:5px;
 }
 /* about us */
-.about_title {
-	color: #0F0E37;
+#about_us {
+	color: #fa5b41;
 }
 /* about_mission start */
 .about_mission{
@@ -1659,12 +1659,12 @@ ul.tranding_more_option li a .opt_icon i:before{
 	padding-top: 20px;
 	padding-bottom: 30px;
 }
-.about_mission h2 {
+.about_mission h4 {
 	color: #fa5b41;
 	/* padding: 10px 0; */
 	/* margin-bottom: 20px; */
 }
-.about_mission h2 {
+.about_mission h4 {
 	opacity: .8;
 }
 .about_mission span {
@@ -1674,7 +1674,7 @@ ul.tranding_more_option li a .opt_icon i:before{
 	line-height: 80px;
 	margin:auto;
 	border-radius:50%;  
-	font-size: 35px;
+	font-size: 30px;
 	color: #FFFFFF;
 	opacity: 0.7;
 	background-color: #fa5b41;
@@ -1695,7 +1695,7 @@ ul.tranding_more_option li a .opt_icon i:before{
 	-o-transform: scale(1.1,1.1) rotate(360deg) ;
 	transform: scale(1.1,1.1) rotate(360deg) ;
 }
-.about-item:hover h2{
+.about-item:hover h4{
 	opacity: 1;
 	-webkit-transform: scale(1.1,1.1)  ;
 	-moz-transform: scale(1.1,1.1)  ;
