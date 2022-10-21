@@ -127,8 +127,11 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a {
 #accordion .card_pagee a span,
 .album_list_wrapper>ul>li>a,
 .artist_wrapper_text p, .author_content p, .comments_box_rivew .author_content p,
-.comments_box_rivew .author_detail .publish_date, .description_link_wrapper li, .event_single_text_wrapper p, .event_slider_wrappeer .prs_feature_img_cont li, .event_slider_wrappeer .prs_ft_small_cont_left p, .foter_top_wrapper li a, .lang_ms_banner .m24_language_box p, .lang_ms_banner .music_field_box label span, .lest_news_cont_wrapper p, .monthly, .prs_ec_ue_right_img_cont .prs_up_pera_sec, .prs_feature_img_cont li, .prs_ft_small_cont_left p, .quick_list_songs li a, .slider-area .carousel-inner .carousel-item .carousel-captions .content p, .text-center p {
+.comments_box_rivew .author_detail .publish_date, .description_link_wrapper li, .event_single_text_wrapper p, .event_slider_wrappeer .prs_feature_img_cont li, .event_slider_wrappeer .prs_ft_small_cont_left p, .foter_top_wrapper li a, .lang_ms_banner .m24_language_box p, .lang_ms_banner .music_field_box label span, .lest_news_cont_wrapper p, .monthly, .prs_ec_ue_right_img_cont .prs_up_pera_sec, .prs_feature_img_cont li, .prs_ft_small_cont_left p, .quick_list_songs li a, .slider-area .carousel-inner .carousel-item .carousel-captions, .content p {
     color: var(--para-color)
+}
+.text-center p {
+    color: rgb(113, 111, 111);
 }
 .blog_pagination_section ul li a, .contact_main, .contact_section .form-control, .contect_form_footer input, .free_music_wrapper, .gc_blog_cloud_side_menu li a, .lang_ms_banner .lang_list_checkbox li, .ms_shop_single_heading:after, .pricing_box_wrapper, .pricing_box_wrapper2, .prs_feature_img_cont ul:after, .search_form .form-control {
     border: 1px solid var(--border-color)
