@@ -470,7 +470,7 @@ a:hover {
 	width: 100%;
 } */
 .images{
-	width: 40%;
+	width: 45%;
 	/* height: 50%; */
 }
 .crm_message_dropbox_wrapper .nice-select .option:hover, .crm_message_dropbox_wrapper .nice-select .option.focus, .crm_message_dropbox_wrapper .nice-select .option.selected.focus{
@@ -3148,11 +3148,12 @@ ul.tranding_more_option li a .opt_icon i:before{
 	.request_song .container .content{
 	  flex-direction: column-reverse;
 	}
-   .container .content .left-side{
+    .request_song .container .content .left-side{
 	 width: 100%;
 	 flex-direction: row;
 	 margin-top: 40px;
 	 justify-content: center;
+	 align-items: center;
 	 flex-wrap: wrap;
    }
    .request_song .container .content .left-side::before{
