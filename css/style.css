@@ -105,7 +105,7 @@ a:hover {
   	text-decoration: none;
 }
 .m24_cover{
-	/* float:left; */
+	float:left;
 	width:100%;
 }
 /*-- Preloader css start --*/
@@ -470,7 +470,7 @@ a:hover {
 	width: 100%;
 } */
 .images{
-	width: 24%;
+	width: 26%;
 	/* height: 50%; */
 }
 .crm_message_dropbox_wrapper .nice-select .option:hover, .crm_message_dropbox_wrapper .nice-select .option.focus, .crm_message_dropbox_wrapper .nice-select .option.selected.focus{
@@ -6861,11 +6861,11 @@ span.ovrly_text2 {
 	color:#fff;
 }
 .index2_btm_footer{
-	background:#221042;
+	background: #221042;
 }
 /**----- index 3 wrapper css -------**/
 .index3_main_header, .index3_treanding_wraaper, .index3_release_wrapper, .index3_top_songs_wrapper, .index3_punjabi_songs, .index3_featured_song_slider .various_song_playlist, .index3_pricing_plans, .index3_blog_wrapper, .index3_partners_section, .index3_footer_wrapper, .index3_bottom_footer, .index3_lang_wrapper .lang_list_checkbox li:hover, .index3_main_header .crm_message_dropbox_wrapper .nice-select .list{
-	background:#04031d;
+	background:#04031d!important;
 }
 .index3_sidebar, .index3_sidebar #toggle_close, .index3_sidebar #cssmenu > ul > li > a{
 	background:#080729 !important;
@@ -6875,10 +6875,10 @@ span.ovrly_text2 {
 	background:#fff;
 }
 .index3_slider_wrapper, .index3_release_wrapper .release_content_artist, .index3_top_songs_list, .index3_top_songs_wrapper .top_lis_left_content .release_content_artist, .index3_featured_list, .index3_pricing_box, .index3_blog_img_content, .index3_quick_wrapper, .index3_quick_wrapper #accordion .card, .index3_index_top_wrapper, .index3_lang_wrapper .modal-content, .index3_login_modal .modal-content, .index3_search_bar .res_search_box{
-	background:#0f0e37;
+	background: #0f0e37 !important;
 }
 .index3_slider_wrapper .carousel-inner .carousel-item .carousel-captions .content h1, .index3_slider_wrapper .carousel-inner .carousel-item .carousel-captions .content h2{
-	color:#fff; font-weight:300;
+	color: #fff!important; font-weight:300;
 }
 .white_heading_wrapper h1,  .treanding_song_slider2 .owl-theme .owl-nav .owl-prev, .treanding_song_slider2 .owl-theme .owl-nav .owl-next, .index3_release_wrapper .release_tabs_wrapper .nav-tabs .nav-link, .index3_release_wrapper .relaese_viewall_wrapper a, .release_content_artist2 p a, .index3_top_songs_wrapper .relaese_viewall_wrapper a, .index3_top_songs_wrapper .top_lis_left_content .release_content_artist p a, .index3_top_songs_wrapper .top_list_tract_time p, .index3_top_songs_wrapper .top_list_tract_view p, .index3_top_songs_wrapper .top_song_list_picks .m24_tranding_more_icon i:before, .index3_featured_song_slider .owl-theme .owl-nav .owl-prev, .index3_featured_song_slider .owl-theme .owl-nav .owl-next, .index3_featured_list .featured_artist_detail p a, .index3_featured_song_slider .various_song_playlist p a, .index3_pricing_box h1, .index3_pricing_box h2, .index3_pricing_box .monthly, .index3_pricing_box .pricing_list22 li, .index3_blog_wrapper .relaese_viewall_wrapper a, .index3_blog_img_content .blog_content_box span, .index3_blog_img_content .featured_artist_detail p a, .index3_blog_img_content .blog_content_box p, .index3_partners_slider .owl-theme .owl-nav .owl-prev, .index3_partners_slider .owl-theme .owl-nav .owl-next, .index3_quick_wrapper #accordion .card_pagee a, .index3_quick_wrapper .quick_list_songs h1, .index_more h1, .ft_heading h4, .index3_adoins_wrapper .jp-title, .index3_adoins_wrapper .m24_tranding_more_icon i:before, .index3_adoins_wrapper a, .index3_adoins_wrapper .jp_current_time_wrapepr, .index3_adoins_wrapper .playlist-item a, .index3_lang_wrapper .m24_language_box h1, .index3_lang_wrapper .music_field_box label, .index3_main_header .crm_message_dropbox_wrapper ul li:first-child a, .index3_main_header .crm_mess_img_cont_wrapper h4 span, .index3_login_modal .m24_language_box h1, .index3_login_modal .m24_language_box p, .index3_login_modal .login_remember_box .control, .index3_login_modal .login_remember_box .forget_password, .index3_search_bar .res_search_bar i:before, .index3_search_bar .notify_para{
 	color:#f2b40e;
