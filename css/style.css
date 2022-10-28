@@ -470,8 +470,7 @@ a:hover {
 	width: 100%;
 } */
 .images{
-	width: 26%;
-	/* height: 50%; */
+	width: 35%;
 }
 .crm_message_dropbox_wrapper .nice-select .option:hover, .crm_message_dropbox_wrapper .nice-select .option.focus, .crm_message_dropbox_wrapper .nice-select .option.selected.focus{
 	background:transparent;
